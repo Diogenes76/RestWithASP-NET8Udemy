@@ -1,12 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dioge\\Documents\\Desenvolvimento\\Curso Udemy\\RestWithASP-NET8Udemy\\RestWithASP-NET8Udemy\\00_RestWithASPNET8Udemy\\RestWithASPNET8Udemy\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\dioge\\Documents\\Desenvolvimento\\Curso Udemy\\RestWithASP-NET8Udemy\\RestWithASP-NET8Udemy\\01_RestWithASPNET8UdemyCalculadora\\RestWithASPNET8Udemy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{468C8A56-4125-47CF-834B-CC47668A0C02}|RestWithASPNET8Udemy.csproj|c:\\users\\dioge\\documents\\desenvolvimento\\curso udemy\\restwithasp-net8udemy\\restwithasp-net8udemy\\01_restwithaspnet8udemycalculadora\\restwithaspnet8udemy\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468C8A56-4125-47CF-834B-CC47668A0C02}|RestWithASPNET8Udemy.csproj|solutionrelative:controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468C8A56-4125-47CF-834B-CC47668A0C02}|RestWithASPNET8Udemy.csproj|c:\\users\\dioge\\documents\\desenvolvimento\\curso udemy\\restwithasp-net8udemy\\restwithasp-net8udemy\\01_restwithaspnet8udemycalculadora\\restwithaspnet8udemy\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{468C8A56-4125-47CF-834B-CC47668A0C02}|RestWithASPNET8Udemy.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\dioge\\Documents\\Desenvolvimento\\Curso Udemy\\RestWithASP-NET8Udemy\\RestWithASP-NET8Udemy\\01_RestWithASPNET8UdemyCalculadora\\RestWithASPNET8Udemy\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\dioge\\Documents\\Desenvolvimento\\Curso Udemy\\RestWithASP-NET8Udemy\\RestWithASP-NET8Udemy\\01_RestWithASPNET8UdemyCalculadora\\RestWithASPNET8Udemy\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-29T12:38:26.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "C:\\Users\\dioge\\Documents\\Desenvolvimento\\Curso Udemy\\RestWithASP-NET8Udemy\\RestWithASP-NET8Udemy\\01_RestWithASPNET8UdemyCalculadora\\RestWithASPNET8Udemy\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CalculatorController.cs",
+              "ToolTip": "C:\\Users\\dioge\\Documents\\Desenvolvimento\\Curso Udemy\\RestWithASP-NET8Udemy\\RestWithASP-NET8Udemy\\01_RestWithASPNET8UdemyCalculadora\\RestWithASPNET8Udemy\\Controllers\\CalculatorController.cs",
+              "RelativeToolTip": "Controllers\\CalculatorController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCgAAACSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T12:06:27.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

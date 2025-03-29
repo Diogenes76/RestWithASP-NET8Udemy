@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dioge\\Documents\\Desenvolvimento\\Curso Udemy\\RestWithASP-NET8Udemy\\RestWithASP-NET8Udemy\\00_RestWithASPNET8Udemy\\RestWithASPNET8Udemy\\RestWithASPNET8Udemy.csproj",
+      "projectUniqueName": "C:\\Users\\dioge\\Documents\\Desenvolvimento\\Curso Udemy\\RestWithASP-NET8Udemy\\RestWithASP-NET8Udemy\\01_RestWithASPNET8UdemyCalculadora\\RestWithASPNET8Udemy\\RestWithASPNET8Udemy.csproj",
       "projectName": "RestWithASPNET8Udemy",
-      "projectPath": "C:\\Users\\dioge\\Documents\\Desenvolvimento\\Curso Udemy\\RestWithASP-NET8Udemy\\RestWithASP-NET8Udemy\\00_RestWithASPNET8Udemy\\RestWithASPNET8Udemy\\RestWithASPNET8Udemy.csproj",
+      "projectPath": "C:\\Users\\dioge\\Documents\\Desenvolvimento\\Curso Udemy\\RestWithASP-NET8Udemy\\RestWithASP-NET8Udemy\\01_RestWithASPNET8UdemyCalculadora\\RestWithASPNET8Udemy\\RestWithASPNET8Udemy.csproj",
       "packagesPath": "C:\\Users\\dioge\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dioge\\Documents\\Desenvolvimento\\Curso Udemy\\RestWithASP-NET8Udemy\\RestWithASP-NET8Udemy\\00_RestWithASPNET8Udemy\\RestWithASPNET8Udemy\\obj\\",
+      "outputPath": "C:\\Users\\dioge\\Documents\\Desenvolvimento\\Curso Udemy\\RestWithASP-NET8Udemy\\RestWithASP-NET8Udemy\\01_RestWithASPNET8UdemyCalculadora\\RestWithASPNET8Udemy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
