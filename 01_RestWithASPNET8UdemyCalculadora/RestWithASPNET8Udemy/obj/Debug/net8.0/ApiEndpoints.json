@@ -1,6 +1,48 @@
 [
   {
     "ContainingType": "RestWithASPNET8Udemy.Controllers.CalculatorController",
+    "Method": "Division",
+    "RelativePath": "Calculator/div/{fistNumber}/{secondNumber}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fistNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "secondNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RestWithASPNET8Udemy.Controllers.CalculatorController",
+    "Method": "Multiplication",
+    "RelativePath": "Calculator/mult/{fistNumber}/{secondNumber}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fistNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "secondNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RestWithASPNET8Udemy.Controllers.CalculatorController",
     "Method": "Subtraction",
     "RelativePath": "Calculator/sub/{fistNumber}/{secondNumber}",
     "HttpMethod": "GET",
@@ -22,7 +64,7 @@
   },
   {
     "ContainingType": "RestWithASPNET8Udemy.Controllers.CalculatorController",
-    "Method": "Get",
+    "Method": "Sum",
     "RelativePath": "Calculator/sum/{fistNumber}/{secondNumber}",
     "HttpMethod": "GET",
     "IsController": true,
